@@ -1,0 +1,23 @@
+$help:  Learn about our team's legendary avatar.
+$set-perm:  Enable others to use more requests.
+$test:  Flavor of the week testing command.
+$reload-config:  Reload the Moltres config file.
+
+$gym:  Get information about a gym.
+$ls-gyms:  List all gyms in a region.
+$search-gym:  Search for gyms matching a name fragment.
+$ls-regions:  List all regions with registered gyms.
+
+$raid:  Get information about the current raid at a gym.
+$ls-raids:  List all active raids in a region.
+$egg:  Report a raid egg.
+$boss:  Report a hatched raid boss.
+$update:  Modify an active raid listing.
+$scrub:  Delete a reported raid and all associated information.
+
+$call:  Call a time for a raid.
+$cancel:  Cancel a called raid time.
+$change-time:  Change a called time for a raid.
+$join:  Join a called raid time.
+$unjoin:  Back out of a scheduled raid.
+ 

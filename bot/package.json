@@ -1,0 +1,28 @@
+{
+  "name": "lugia",
+  "version": "1.0.0",
+  "description": "pokemon go bot for discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tarragoesteve/lugia.git"
+  },
+  "keywords": [
+    "pokemon",
+    "go",
+    "raid"
+  ],
+  "author": "tarragoesteve",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tarragoesteve/lugia/issues"
+  },
+  "homepage": "https://github.com/tarragoesteve/lugia#readme",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "mongodb": "^3.1.1"
+  }
+}
